@@ -1,24 +1,27 @@
-# Student Management System (MERN)
+# Student Management System
 
-![MERN Stack](https://miro.medium.com/v2/resize:fit:1400/1*J3G3akaMpUOLegw0p0qthA.png)
+This is a simple Student Management System where you can manage student records, including adding, editing, and deleting student details.
 
-A full-stack CRUD application for managing student records.
+## Live Demo
 
-## 🚀 Live Demo  
-[![Live Demo](https://img.shields.io/badge/Render-Live_Demo-blue)](https://student-management-system-frontend-6nyh.onrender.com)
+You can view the live demo of the Student Management System here: [Live Demo](https://student-management-system-zanw.onrender.com)
 
 ## Features
-- Add/Edit/Delete students
-- View all records
-- Responsive design
-- Form validation
 
-## Tech Stack
-- **Frontend**: React.js, Vite, Bootstrap  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB Atlas  
+- Add new students to the system.
+- Edit student details.
+- View all students in the system.
+- Deactivate or activate students.
 
-## Quick Start
-1. Clone repo:
+## Technologies Used
+
+- React
+- Node.js
+- Express
+- MongoDB (for storing student data)
+
+## Installation
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Student-Management-System.git
+   git clone https://github.com/sainikithreddye/Student-Management-System.git
